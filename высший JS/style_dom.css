@@ -1,0 +1,201 @@
+p
+{
+color: green;
+}
+#parent input 
+{
+	color: red;
+}
+input 
+{
+color: #318CE7;
+}
+.stile170
+{
+	color:#B30B00;
+	background-color:#3C666E;
+	transition: background-color 3s;
+}
+.stile170_1
+{
+	color:#318CE7;
+	background-color:#11ffee00;
+	transition: color 3s, background-color 3s;
+
+}
+.stile171
+{
+	color:#F5F5F5;
+	background-color:#0760B8;
+	transition: background-color 3s;
+	height:100px;
+    width:100px;
+}
+.stile253
+{
+	text-decoration: line-through
+}
+
+.hidden259_3
+{
+	display: none;
+}
+.hidden254 
+{
+	display: none;
+}
+
+.hidden255 
+{
+	display: none;
+}
+.active256 
+{
+	background: red;
+}
+.active258
+{
+	background: red;
+}
+.color257_1
+{
+	background: red;
+}
+.color257_2
+{
+	background: green;
+}
+.color257_3 
+{
+	background: yellow;
+}
+.www
+{
+	color:#F5F5F5;
+}
+.ggg
+{
+background-color:#0760B8;
+
+}
+.zzz
+{
+	height:100px;
+    width:100px;
+}
+.kkk
+{
+	border: 5px solid #3C4043;
+}
+.colored174
+ {
+	color: #D22F28;
+}
+
+#elem174_1 
+{
+	display: none;
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+}
+#elem174_1.active {
+	display: block;
+}
+
+#elem200_2
+{
+
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid green;
+	background-color:#BEE7FE;
+}
+
+#elem201_1
+{
+position:relative;
+width: 300px;
+height: 300px;
+background-color:#1DA261;
+padding:50px;
+}
+#elem201_2
+{
+position:relative;
+width: 200px;
+height: 200px;
+background-color:#3782D7;
+padding:50px;
+}
+#elem201_3
+{
+position:relative;
+width: 100px;
+height: 100px;
+background-color:#D80F0F;
+padding:50px;
+}
+#elem202 {
+	padding: 20px;
+	border: 1px solid red;
+}
+
+#elem202_1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+}
+#elem203_1
+{
+position:relative;
+width: 300px;
+height: 300px;
+background-color:#1DA261;
+padding:50px;
+}
+#elem203_2
+{
+position:relative;
+width: 200px;
+height: 200px;
+background-color:#3782D7;
+padding:50px;
+}
+#elem203_3
+{
+position:relative;
+width: 100px;
+height: 100px;
+background-color:#D80F0F;
+padding:50px;
+}
+#elem204_1
+{
+position:relative;
+width: 300px;
+height: 300px;
+background-color:#1DA261;
+padding:50px;
+}
+#elem204_2
+{
+position:relative;
+width: 200px;
+height: 200px;
+background-color:#3782D7;
+padding:50px;
+}
+#elem204_3
+{
+position:relative;
+width: 100px;
+height: 100px;
+background-color:#D80F0F;
+padding:50px;
+}
+
+
+
+
+
